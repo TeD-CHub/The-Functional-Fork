@@ -1,8 +1,3 @@
-/* ---------------------------------------
-   THE FUNCTIONAL FORK — Healthy Organic Theme
-   Mood: Healthy, Organic, Sustainable, Clean
-------------------------------------------*/
-
 /* Elegant, clean, modern-organic font pairing */
 body {
   font-family: 'Poppins', Arial, sans-serif;
@@ -808,3 +803,4 @@ details[open] summary {
 .learn-btn:hover {
   background: #388e3c;
 }
+
