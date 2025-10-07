@@ -1,7 +1,3 @@
-// ==========================
-// The Functional Fork - script.js
-// ==========================
-
 // ======== NAVIGATION MENU TOGGLE ========
 const menuBtn = document.getElementById('menuBtn');
 const navLinks = document.getElementById('navLinks');
@@ -145,4 +141,5 @@ document.addEventListener("DOMContentLoaded", () => {
       blogContainer.innerHTML = "<p>Failed to load blogs. Please try again later.</p>";
     });
 });
+
 
